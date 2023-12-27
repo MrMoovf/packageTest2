@@ -1,0 +1,19 @@
+{
+    "name": "arostech/test2",
+    "description": "my test",
+    "type": "project",
+    "require": {
+        "php": "^8.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Arostech\\Test2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "arostech"
+        }
+    ]
+}
