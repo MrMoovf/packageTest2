@@ -1,7 +1,7 @@
 {
     "name": "arostech/test2",
     "description": "my test",
-    "type": "project",
+    "type": "library",
     "require": {
         "php": "^8.2"
     },
