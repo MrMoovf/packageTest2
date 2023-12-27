@@ -7,5 +7,5 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'Composer\\Installers\\' => array($vendorDir . '/composer/installers/src/Composer/Installers'),
-    'Arostech\\Test2\\' => array($baseDir . '/src'),
+    'Arostech\\ApiControllerPackage\\' => array($baseDir . '/src'),
 );

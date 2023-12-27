@@ -3,7 +3,7 @@
         'name' => 'arostech/test2',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '32b44184e5c2fa82bbe0b9b4ce8aa354e3c1840c',
+        'reference' => '066d4e59e5dd5322ed9ddb5d18227f27f6cc1f3d',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'arostech/test2' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '32b44184e5c2fa82bbe0b9b4ce8aa354e3c1840c',
+            'reference' => '066d4e59e5dd5322ed9ddb5d18227f27f6cc1f3d',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

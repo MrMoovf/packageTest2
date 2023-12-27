@@ -13,7 +13,7 @@ class ComposerStaticInit783fcaec0b3eff6f52019c431f5266b9
         ),
         'A' => 
         array (
-            'Arostech\\Test2\\' => 15,
+            'Arostech\\ApiControllerPackage\\' => 30,
         ),
     );
 
@@ -22,7 +22,7 @@ class ComposerStaticInit783fcaec0b3eff6f52019c431f5266b9
         array (
             0 => __DIR__ . '/..' . '/composer/installers/src/Composer/Installers',
         ),
-        'Arostech\\Test2\\' => 
+        'Arostech\\ApiControllerPackage\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),
